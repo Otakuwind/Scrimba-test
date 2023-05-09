@@ -11,6 +11,6 @@ function increment() {
 function save() {
 
     let countStr = count + " - "
-    saveEl.innerText = countStr
+    saveEl.textContent += countStr
     console.log(count)
 }
