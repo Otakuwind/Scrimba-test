@@ -13,4 +13,5 @@ function save() {
     let countStr = count + " - "
     saveEl.textContent += countStr
     console.log(count)
+     countEl.textContent = 0
 }
