@@ -3,7 +3,8 @@ body {
     background-size: cover;
     font-weight: bold;
     text-align: center;
-    font-family: Verdana, Tahoma, sans-serif
+    font-family: Verdana, Tahoma, sans-serif;
+    background-repeat: no-repeat;
 }
 
 
